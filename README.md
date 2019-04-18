@@ -3,7 +3,6 @@
 _(Winston Churchill)_
 ----
 ## Table of Contents
-----
 ### Week 01
 - Course Background
     - Three problems to solve
