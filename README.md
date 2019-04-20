@@ -69,3 +69,13 @@ _(Winston Churchill)_
     - [x] Subway Route Visualization
     - [x] Build Search Agent
     - [x] Implement Various Search Strategy
+----
+### Week 04
+#### AI English Enhancement Lesson 01
+- [Module_01](https://github.com/pchen12567/AI_For_NLP/blob/master/AI_English_Enhancement_01/Module_1-Academic_English_Reading.pdf)
+- Content
+    1. Language Proficiency Test
+    2. Choose the Appropriate Learning Material
+    3. Purpose of Academic Reading
+    4. Reding Strategies for Academic Texts
+    5. Reading Fluency Technique: Chunking Text
