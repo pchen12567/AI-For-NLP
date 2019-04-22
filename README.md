@@ -26,6 +26,7 @@ _(Winston Churchill)_
     2. [x] Sentence Generation    
 - [Assignment 01: Pattern Match](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Assignment_01.ipynb)
     1. [x] Chat Bot Using Pattern
+- [Code of BFS and DFS](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Search.py)
 ----
 ### Week 02
 - Language Model
