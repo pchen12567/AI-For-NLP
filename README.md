@@ -21,11 +21,12 @@ _(Winston Churchill)_
         4. Probability Based
         5. Machine Learning(deep learning) Based
 - Search Policy, Syntax Tree
-- [Recode Lecture 01](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_01_PatternMatch/LectureCode_01.ipynb)
+- [Recode Lecture 01](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/LectureCode_01.ipynb)
     1. [x] Map Search
     2. [x] Sentence Generation    
-- [Assignment 01: Pattern Match](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_01_PatternMatch/Assignment_01.ipynb)
+- [Assignment 01: Pattern Match](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Assignment_01.ipynb)
     1. [x] Chat Bot Using Pattern
+- [Code of BFS and DFS](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Search.py)
 ----
 ### Week 02
 - Language Model
@@ -33,9 +34,9 @@ _(Winston Churchill)_
     - Regular Expression
     - Build Unigram(1_gram) model
     - Build Bigram(2_gram) model
-- [Recode Lecture 02](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_02_LanguageModel/LectureCode_02.ipynb)
+- [Recode Lecture 02](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_02_LanguageModel/LectureCode_02.ipynb)
     1. [x] Language Model
-- [Assignment 02: Language Model](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_02_LanguageModel/Assignment_02.ipynb)
+- [Assignment 02: Language Model](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_02_LanguageModel/Assignment_02.ipynb)
     1. [x] Prepare Wikipedia Corpus
     2. [x] Build Unigram(1_gram) model
     3. [x] Build Bigram(2_gram) model
@@ -61,10 +62,10 @@ _(Winston Churchill)_
 - How to make search faster
     - Heuristic Search: A* Search
     - [ ] Dynamic Programming
-- [Recode Lecture 03](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_03_SearchAgent/LectureCode_03.ipynb)
+- [Recode Lecture 03](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_03_SearchAgent/LectureCode_03.ipynb)
     - [x] Best First Search: Basic Navigator for Chinese Cities
     - [X] Gradient Descent: Titanic Machine Learning
-- [Assignment 03: Search Agent](https://github.com/pchen12567/AI_For_NLP/blob/master/Assignment_03_SearchAgent/Assignment_03.ipynb)
+- [Assignment 03: Search Agent](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_03_SearchAgent/Assignment_03.ipynb)
     - [x] Crawler Beijing Subway Data
     - [x] Subway Route Visualization
     - [x] Build Search Agent
