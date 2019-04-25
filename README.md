@@ -2,6 +2,8 @@
 >The farther backward you can look, the farther forward you are likely to see.<br>
 _(Winston Churchill)_
 ----
+## Solution if GitHub load .ipynb file failed
+[Open the .ipynb file in this website](https://nbviewer.jupyter.org/)
 ## Table of Contents
 ### Week 01
 - Course Background
