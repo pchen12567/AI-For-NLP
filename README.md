@@ -74,11 +74,35 @@ _(Winston Churchill)_
     - [x] Implement Various Search Strategy
 ----
 ### Week 04
+- Why NLP
+    - Information Chaos
+    - Unstructured
+    - Discrete
+    - Unconventional
+    - OOV
+- Utilities for NLP
+    - Similarity: Edit Distance, Word Distance
+    - Key words
+    - Name Entity Recognition
+    - Dependency Parsing
+    - Topic Model
+- Dynamic Programming
+    - Rod Cutting Problem
+    - Edit Distance Problem
+    - [ ] Key Characteristics for Dynamic Programming
+    - [ ] The Travel Salesman Problem
+- [Recode Lecture 04](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_04_DynamicProgramming/LectureCode_04.ipynb)
+    - [x] Rod Cutting Problems
+    - [x] Python Decorator
+    - [x] Edit Distance (Levenshtein)
+- [Assignment 04: Dynamic Programming](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_04_DynamicProgramming/Assignment_04.ipynb)
+    - [x] Solution Parse of Edit Distance
+    - [ ] K-Person-Salesman Problem
 #### AI English Enhancement Lesson 01
 - [Module_01](https://github.com/pchen12567/AI_For_NLP/blob/master/AI_English_Enhancement_01/Module_1-Academic_English_Reading.pdf)
 - Content
     1. Language Proficiency Test
     2. Choose the Appropriate Learning Material
     3. Purpose of Academic Reading
-    4. Reding Strategies for Academic Texts
+    4. Reading Strategies for Academic Texts
     5. Reading Fluency Technique: Chunking Text
