@@ -123,7 +123,7 @@ _(Winston Churchill)_
     - To allow ranked retrieval
 - PageRank
     - Ranking using TF_IDF
-- [Recode Lecture 06](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_06_/LectureCode_06.ipynb)
+- [Recode Lecture 06](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_06_TFIDF/LectureCode_06.ipynb)
     - [x] Similar Words
         1. Regular Expression
         2. Jieba Cut Words
