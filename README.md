@@ -106,3 +106,39 @@ _(Winston Churchill)_
     3. Purpose of Academic Reading
     4. Reading Strategies for Academic Texts
     5. Reading Fluency Technique: Chunking Text
+----
+### Week 06
+- Keywords
+    - Get related words by word2vec
+- TF_IDF
+    - Term Frequency
+    - Inverse Document Frequency
+- TF_IDF Vectorized
+    - Scikit-Learning TF_IDF
+    - Simplest Classification Model
+- WordCloud
+- Boolean Search
+    - To process large document collections quickly
+    - To allow more flexible matching operations
+    - To allow ranked retrieval
+- PageRank
+    - Ranking using TF_IDF
+- [Recode Lecture 06](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_06_/LectureCode_06.ipynb)
+    - [x] Similar Words
+        1. Regular Expression
+        2. Jieba Cut Words
+        3. Gensim Word2Vec
+    - [x] TF_IDF Key Words
+        1. Term Frequency
+        2. Inverse Document Frequency
+        3. Calculate TF_IDF
+    - [x] WordCloud
+        1. Plot WordCloud
+        2. Plot with image mask
+    - [x] TF_IDF Vectorized
+        1. Cosine Similarity
+        2. TF_IDF Vectorized with Sklearn
+        3. Search the similar document
+    - [x] Boolean Search
+        1. Search Engine with TF_IDF
+        2. PageRank
