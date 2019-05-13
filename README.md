@@ -3,7 +3,7 @@
 _(Winston Churchill)_
 ----
 ## Solution if GitHub load .ipynb file failed
-[Open the .ipynb file in this website](https://nbviewer.jupyter.org/)
+[Open the .ipynb file on this website](https://nbviewer.jupyter.org/)
 ## Table of Contents
 ### Week 01
 - Course Background
@@ -27,7 +27,7 @@ _(Winston Churchill)_
     1. [x] Map Search
     2. [x] Sentence Generation    
 - [Assignment 01: Pattern Match](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Assignment_01.ipynb)
-    1. [x] Chat Bot Using Pattern
+    1. [x] Chat Bot Using Pattern: Sample Eliza
 - [Code of BFS and DFS](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_01_PatternMatch/Search.py)
 ----
 ### Week 02
@@ -42,7 +42,7 @@ _(Winston Churchill)_
     1. [x] Prepare Wikipedia Corpus
     2. [x] Build Unigram(1_gram) model
     3. [x] Build Bigram(2_gram) model
-    4. [ ] Turing-Good Estimator smooth method
+    4. [x] Turing-Good Estimator smooth method
 ----
 ### Week 03
 - Review
@@ -72,6 +72,7 @@ _(Winston Churchill)_
     - [x] Subway Route Visualization
     - [x] Build Search Agent
     - [x] Implement Various Search Strategy
+    - [ ] Strategy: by_way
 ----
 ### Week 04
 - Why NLP
