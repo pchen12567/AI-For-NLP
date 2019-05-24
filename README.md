@@ -143,3 +143,20 @@ _(Winston Churchill)_
     - [x] Boolean Search
         1. Search Engine with TF_IDF
         2. PageRank
+----
+### Week 07
+- Machine Learning
+    - Background
+    - Main Methodologies
+    - Current Trends
+- Under-fitting and Over-fitting
+    - Bias and Variance
+    - Model Capacity
+    - Under-fitting and Over-fitting
+- Train set, test set, validation set
+    - Influence of dataset
+    - The relation of train, test and validation
+- [Assignment 07](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_07_MachineLearning/Assignment_07.md)
+    - Difference between regression and classification
+    - Model evaluation index
+
