@@ -157,6 +157,8 @@ _(Winston Churchill)_
     - Influence of dataset
     - The relation of train, test and validation
 - [Assignment 07](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_07_MachineLearning/Assignment_07.md)
-    - Difference between regression and classification
-    - Model evaluation index
+    - [x] Difference between regression and classification
+    - [x] Model evaluation index
+    - [x] Reason for over-fitting
+    - [x] Reason for under-fitting
 
