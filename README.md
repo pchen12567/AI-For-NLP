@@ -161,4 +161,13 @@ _(Winston Churchill)_
     - [x] Model evaluation index
     - [x] Reason for over-fitting
     - [x] Reason for under-fitting
-
+----
+### Week 08
+- Lazy Learning and Eager Learning
+    - Target function will be approximately locally
+    - Dataset with few attributes
+- Outlier
+    - What`s outlier and how to detect
+    - Percentile
+- Bias and Variance
+- Train, Validation and Test
