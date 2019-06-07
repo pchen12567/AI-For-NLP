@@ -171,3 +171,26 @@ _(Winston Churchill)_
     - Percentile
 - Bias and Variance
 - Train, Validation and Test
+- Supervised Learning
+    - Classification and Regression
+    - Logistic Regression
+    - Bayes Model
+    - KNN Model
+    - SVM Model
+    - Decision Tree
+- Scikit-Learning
+- Unsupervised Learning
+    - K-means
+    - Hierarchy clustering
+    - Embedding clustering
+- Semi-Supervised Learning
+    - Activate Learning
+    - Machine Learning + Search Policy
+- Importance of Pre_processing
+    - Normalization and Scalar
+
+
+
+
+
+
