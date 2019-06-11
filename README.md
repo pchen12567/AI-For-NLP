@@ -188,6 +188,11 @@ _(Winston Churchill)_
     - Machine Learning + Search Policy
 - Importance of Pre_processing
     - Normalization and Scalar
+- [Assignment_08](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_08_LR/Assignment_08.ipynb)
+    - [x] Basic Concept
+    - [x] 新华社抄袭文本判断
+    - [x] [Logistic_Regression](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_08_LR/Logistic_Regression.ipynb)
+
 
 
 
