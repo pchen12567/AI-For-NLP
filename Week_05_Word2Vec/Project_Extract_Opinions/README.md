@@ -10,13 +10,15 @@ LTP support files
 - [model](https://github.com/pchen12567/AI_For_NLP/tree/master/Week_05_Word2Vec/Project_Extract_Opinions/model): 
 Workplace for building model.
     - [model_data](https://github.com/pchen12567/AI_For_NLP/tree/master/Week_05_Word2Vec/Project_Extract_Opinions/model/model_data): 
-    Directory to save model data.
-    - [get_saying_words.py](): 
+    Directory to save model data files.
+    - [get_saying_words.py](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_05_Word2Vec/Project_Extract_Opinions/model/get_sayings_words.py): 
     Get Saying related words list with Word2Vec method from news corpus.
-    - [pyltp_model.py](): 
-    s
+    - [pyltp_model.py](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_05_Word2Vec/Project_Extract_Opinions/model/pyltp_model.py): 
+    Extract opinions from news with PYLTP by NER and Dependency Parsing.
     - [pyltp_sample.py](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_05_Word2Vec/Project_Extract_Opinions/model/pyltp_sample.py): 
     Sample script of how to implement PYLTP.
+    - [test_ltp.py](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_05_Word2Vec/Project_Extract_Opinions/model/test_plt.py): 
+    Script of testing LTP model.
     
     
 - [templates](https://github.com/pchen12567/AI_For_NLP/tree/master/Week_05_Word2Vec/Project_Extract_Opinions/templates): 
