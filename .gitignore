@@ -6,10 +6,10 @@
 
 .ipynb_checkpoints/*
 
-*/Project_01/corpus/data/*
+*/*/corpus/data/*
 
-*/Project_01/ltp_data_v3.4.0/*.model
-*/Project_01/ltp_data_v3.4.0/*.txt
-*/Project_01/ltp_data_v3.4.0/version
+*/*/ltp_data_v3.4.0/*.model
+*/*/ltp_data_v3.4.0/*.txt
+*/*/ltp_data_v3.4.0/version
 
 
