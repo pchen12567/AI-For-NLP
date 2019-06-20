@@ -12,4 +12,7 @@
 */*/ltp_data_v3.4.0/*.txt
 */*/ltp_data_v3.4.0/version
 
+Week_05_Word2Vec/Project_Extract_Opinions/model/model_data/news_word2vec_model_ltp.txt
+Week_05_Word2Vec/Project_Extract_Opinions/model/model_data/total_news_sentences_cut_ltp.txt
+
 

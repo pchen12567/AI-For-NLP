@@ -73,7 +73,7 @@ def corpus_processing(corpus_path):
 def get_word2vec(cut_sentence_path):
     news_word2vec = Word2Vec(LineSentence(cut_sentence_path), sg=0, min_count=10, size=100, window=5, workers=8)
     # Save model
-    news_word2vec.wv.save_word2vec_format('./model_data/news_word2vec_mode_ltp.txt', binary=False)
+    news_word2vec.wv.save_word2vec_format('./model_data/news_word2vec_model_ltp.txt', binary=False)
     return news_word2vec
 
 
@@ -188,7 +188,7 @@ def main():
     news_word2vec = get_word2vec(cut_sentence_path)
 
     # Load word2vec model
-    news_word2vec = KeyedVectors.load_word2vec_format('./news_word2vec_mode_ltp.txt', binary=False)
+    news_word2vec = KeyedVectors.load_word2vec_format('./news_word2vec_model_ltp.txt', binary=False)
 
     # Get related words
     related_words = get_related_words(['说', '表示'], news_word2vec, max_size=10000, top_n=50)
