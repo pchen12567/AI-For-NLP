@@ -192,10 +192,31 @@ _(Winston Churchill)_
     - [x] Basic Concept
     - [x] 新华社抄袭文本判断
     - [x] [Logistic_Regression](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_08_LR/Logistic_Regression.ipynb)
-
-
-
-
-
-
-
+----
+### Week 09
+- Cross Entropy
+- Multi-Classification
+- Softmax
+- K-Nearest Neighbors
+    - If we want write a program solve it, it`s simple.
+    - 1-nearest neighbor classifier / regression.
+    - Weighted nearest neighbor classifier / regression.
+    - Maybe all the machine learning problem could use this method.
+        - Dimension reduction
+        - Outlier
+        - Memory Consuming
+        - Timing Consuming in high dimension
+- Support Vector Machine
+    - Kernel Function
+        - Polynomial(homogeneous)
+        - Polynomial(inhomogeneous)
+        - Gaussian radial basis function
+        - Hyperbolic tangent
+    - Unbalance Problem
+- Importance of Pre-processing
+    - Balance Analysis
+    - Remove Noise
+    - Remove Col-linearity
+    - Rescale Inputs
+- [Assignment_09](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_09_ClassicalModels_1/news_plagiarism_detection.py)
+    - [x] News plagiarism detection
