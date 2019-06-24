@@ -220,3 +220,17 @@ _(Winston Churchill)_
     - Rescale Inputs
 - [Assignment_09](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_09_ClassicalModels_1/news_plagiarism_detection.py)
     - [x] News plagiarism detection
+----
+### Week 10
+- Bayesian Classifier
+- Decision Tree
+- Random Forest
+    - Create a 'bootstraped' data set
+    - Predicate using the forest
+    - Before predicating we use Out-Of-Bagging sample to evaluate our model
+    - Using the evaluated result, we could choose the right variables number to be chosen in Random Forest.
+- XGBoost
+- K-means Cluster
+- Embedding Cluster
+- Semi Supervised & Activate Learning
+- [Record Lecture 10](https://github.com/pchen12567/AI_For_NLP/blob/master/Week_10_ClassicalModels_2/LectureCode_10.ipynb)
